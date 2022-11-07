@@ -60,6 +60,14 @@ h3{
     
 }
 
+p.standout{
+    border: 1px solid #1c291b;
+    padding: 2px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 0;
+}
+
 
 header, .openbtn{
     float: left ;
